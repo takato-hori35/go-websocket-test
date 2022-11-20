@@ -1,2 +1,7 @@
 『Goでちょっとひといき』の実行環境です。
 第1章 Go言語でWebsocket通信
+
+実行
+`go run main.go`
+
+URL: `http://localhost:9000/`
